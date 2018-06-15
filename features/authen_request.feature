@@ -1,4 +1,3 @@
-@wip
 Feature: Authentication Request
     Background: Ensure user Roofimon is in system
         Given Ensure user `Roofimon` is in system
