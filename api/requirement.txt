@@ -1,0 +1,4 @@
+behave==1.2.6
+aiohttp==3.3.2
+cryptography==2.2.2
+pyhamcrest==1.8
